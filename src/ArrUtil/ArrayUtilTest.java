@@ -18,7 +18,7 @@ public class ArrayUtilTest {
 		for (int i : a2) {
 			System.out.println(i + " ");
 		}
-		
+		 
 		System.out.println("");
 		
 		int[] a3 = ArrayUtil.concat(a1, a2);

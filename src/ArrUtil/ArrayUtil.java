@@ -11,7 +11,7 @@ public class ArrayUtil {
 //		for(int i:source) {
 //			result[index++]= i;
 //		}
-		
+		 
 		for (int i = 0; i < result.length; i++) {
 			result[i] = source[i];
 		}
