@@ -24,5 +24,5 @@ public class Main {
 	public static void drawPoint(Point point) {
 		point.show();
 	}
-
+ 
 }

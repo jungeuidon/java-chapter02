@@ -20,7 +20,7 @@ public class Point {
 		this.x = x;
 	}
 
-	public int getY() {
+	public int getY() { 
 		return y;
 	}
 
