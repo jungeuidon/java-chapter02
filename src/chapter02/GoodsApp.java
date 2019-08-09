@@ -11,7 +11,7 @@ public class GoodsApp {
 		camera.setCountSold(50);
 		
 		
-		
+		 
 		System.out.println(Goods.countOfGoods);
 		
 		camera.showInfo();  //showInfo 메소드

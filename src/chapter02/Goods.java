@@ -9,6 +9,10 @@ public class Goods {
 		
 		public static int countOfGoods;
 		
+		public void a() {
+			Goods.countOfGoods =100;
+		}
+		
 		public Goods() { //생성자 메소드
 			countOfGoods += 1;        //굳이 앞에 Goods를 붙여주지 않아도 된다. 
 			// = Goods.countOfGoods += 1; 와 같다.
