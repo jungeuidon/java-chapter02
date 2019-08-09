@@ -12,7 +12,7 @@ public class StaticMethodTest {
 		// 하지만, 같은 클래스인경우 생략가능
 		// StaticMethodTest.m = 20; 이라고 쓰는게 맞다. 하지만 생략가능
 	}
-	
+	 
 	public static void f2() {
 		// n =10;     에러 : static은 static만 접근가능
 		m = 20;
