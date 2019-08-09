@@ -71,7 +71,7 @@ public class Song {
 		//some code2
 		//some code3
 	}
-	
+	 
 	public Song(String title, String artist){
 		this(title, null, artist, null, 0, 0);  //기존에 만들어져 있는 생성자를 재사용하는것.
 		// == this.title = title;
